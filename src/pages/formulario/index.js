@@ -13,7 +13,7 @@ function Formulario() {
 
     async function hundleSubmit(e) {
         e.preventDefault();
-        api.post('/cadastros', { nome, email, telefone })
+        await   api.post('/cadastros', { nome, email, telefone })
             .then(function (response) {
                 setNotification(response.data.messager);
                 alert(response.data.messager);
