@@ -61,7 +61,7 @@ function Formulario() {
                     <button type="submit" className='btn' >Cadastrar </button>
                 </center>
             </form>
-            <Link to="/duvidas">
+            <Link to="/sobradinho/duvidas">
                 <button className="btn_mais">Quero saber mais!</button>
             </Link>
         </div>

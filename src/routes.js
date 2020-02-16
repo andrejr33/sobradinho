@@ -9,8 +9,8 @@ import Duvidas from './pages/duvidas/';
 const Routes = () => (
     <BrowserRouter>
         <Switch>
-            <Route exact path="/" component={Formulario} />
-            <Route path="/duvidas" component={Duvidas} />
+            <Route exact path="/sobradinho" component={Formulario} />
+            <Route path="/sobradinho/duvidas" component={Duvidas} />
         </Switch>
     </BrowserRouter>
 );

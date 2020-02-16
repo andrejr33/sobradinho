@@ -33,7 +33,7 @@ export default class Formulario extends Component {
 
                 <div className="col-8">
 
-                    <Link to="/">
+                    <Link to="/sobradinho">
                         <button className="btn_mais" >Voltar para Inscrição</button>
                     </Link>
                 </div>
