@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sobradinho/static/css/main.f3a3b5d7.chunk.css",
-    "main.js": "/sobradinho/static/js/main.517826db.chunk.js",
-    "main.js.map": "/sobradinho/static/js/main.517826db.chunk.js.map",
+    "main.js": "/sobradinho/static/js/main.00da08f8.chunk.js",
+    "main.js.map": "/sobradinho/static/js/main.00da08f8.chunk.js.map",
     "runtime-main.js": "/sobradinho/static/js/runtime-main.a6e0bc44.js",
     "runtime-main.js.map": "/sobradinho/static/js/runtime-main.a6e0bc44.js.map",
     "static/js/2.e396edc4.chunk.js": "/sobradinho/static/js/2.e396edc4.chunk.js",
     "static/js/2.e396edc4.chunk.js.map": "/sobradinho/static/js/2.e396edc4.chunk.js.map",
     "index.html": "/sobradinho/index.html",
-    "precache-manifest.e048136c90f5be1d62a627eb298848a5.js": "/sobradinho/precache-manifest.e048136c90f5be1d62a627eb298848a5.js",
+    "precache-manifest.98fa12e416b21c6078a642779d168372.js": "/sobradinho/precache-manifest.98fa12e416b21c6078a642779d168372.js",
     "service-worker.js": "/sobradinho/service-worker.js",
     "static/css/main.f3a3b5d7.chunk.css.map": "/sobradinho/static/css/main.f3a3b5d7.chunk.css.map",
     "static/js/2.e396edc4.chunk.js.LICENSE.txt": "/sobradinho/static/js/2.e396edc4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a6e0bc44.js",
     "static/js/2.e396edc4.chunk.js",
     "static/css/main.f3a3b5d7.chunk.css",
-    "static/js/main.517826db.chunk.js"
+    "static/js/main.00da08f8.chunk.js"
   ]
 }
