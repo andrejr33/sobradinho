@@ -7,7 +7,7 @@ function App() {
         <>
         <header>
             <h1>Simpósio E.B.D </h1><br />
-            <h6>Não perca essa oportunidade muito especial</h6>
+            <h6>Não perca essa oportunidade muito especial. </h6>
         </header>
         <div className="App">
         <Routes />
@@ -19,7 +19,7 @@ function App() {
 
         <footer>
             <p>&copy; 2020 Todos os direitos reservados </p>
-            <span>Create By <a href="https://github.com/ajjunior33" target="_blank" rel="noopener noreferrer">André Junior</a></span>
+            <span>Create By <a href="https://andrejr33.github.io/" target="_blank" rel="noopener noreferrer">André Junior</a></span>
         </footer>
 
         </>
