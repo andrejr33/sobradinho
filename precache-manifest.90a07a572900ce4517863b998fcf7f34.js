@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fde0da6eda660bb34e26452c41903c4",
+    "revision": "698b196d4c7dadbb8fd04119fb8343ab",
     "url": "/sobradinho/index.html"
   },
   {
-    "revision": "3000e7be621e44366380",
+    "revision": "d81296a31aa1d10a9dc0",
     "url": "/sobradinho/static/css/main.f3a3b5d7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sobradinho/static/js/2.e396edc4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3000e7be621e44366380",
-    "url": "/sobradinho/static/js/main.f2fbae78.chunk.js"
+    "revision": "d81296a31aa1d10a9dc0",
+    "url": "/sobradinho/static/js/main.6f7a7e54.chunk.js"
   },
   {
     "revision": "189c1997a1fc7eac73ed",
