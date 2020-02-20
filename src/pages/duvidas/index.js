@@ -13,7 +13,7 @@ export default class Formulario extends Component {
                     </h2>
                     <h3>
                         Data: 14/03/2020<br />
-                        Horário: 08:30hrs às 11:30hrs e  13:00hrs às 16:00hrs.<br />
+                        Horário: 08:00hrs às 11:30hrs e  13:00hrs às 16:00hrs.<br />
                     </h3>
                 </div>
 
